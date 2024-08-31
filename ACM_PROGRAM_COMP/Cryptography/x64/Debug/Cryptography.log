@@ -1,0 +1,5 @@
+﻿  Cryptography.cpp
+C:\Users\ERich\OneDrive\Desktop\Everything\VisualCode\ACM_PROGRAM_COMP\Cryptography\Cryptography.cpp(45,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ERich\OneDrive\Desktop\Everything\VisualCode\ACM_PROGRAM_COMP\Cryptography\Cryptography.cpp(51,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ERich\OneDrive\Desktop\Everything\VisualCode\ACM_PROGRAM_COMP\Cryptography\Cryptography.cpp(52,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Cryptography.vcxproj -> C:\Users\ERich\OneDrive\Desktop\Everything\VisualCode\ACM_PROGRAM_COMP\Cryptography\x64\Debug\Cryptography.exe
